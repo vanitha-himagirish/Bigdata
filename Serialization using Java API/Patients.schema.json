@@ -1,0 +1,169 @@
+{
+  "$schema": "schemaPatient",
+  "type": "object",
+  "properties": {
+    "Patients": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "PatientID": {
+              "type": "string"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Phone": {
+              "type": "string"
+            },
+            "Email": {
+              "type": "string"
+            },
+            "Username": {
+              "type": "string"
+            },
+            "Password": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "PatientID",
+            "Name",
+            "Phone",
+            "Email",
+            "Username",
+            "Password"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "PatientID": {
+              "type": "string"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Phone": {
+              "type": "string"
+            },
+            "Email": {
+              "type": "string"
+            },
+            "Username": {
+              "type": "string"
+            },
+            "Password": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "PatientID",
+            "Name",
+            "Phone",
+            "Email",
+            "Username",
+            "Password"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "PatientID": {
+              "type": "string"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Phone": {
+              "type": "string"
+            },
+            "Email": {
+              "type": "string"
+            },
+            "Username": {
+              "type": "string"
+            },
+            "Password": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "PatientID",
+            "Name",
+            "Phone",
+            "Email",
+            "Username",
+            "Password"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "PatientID": {
+              "type": "string"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Phone": {
+              "type": "string"
+            },
+            "Email": {
+              "type": "string"
+            },
+            "Username": {
+              "type": "string"
+            },
+            "Password": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "PatientID",
+            "Name",
+            "Phone",
+            "Email",
+            "Username",
+            "Password"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "PatientID": {
+              "type": "string"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Phone": {
+              "type": "string"
+            },
+            "Email": {
+              "type": "string"
+            },
+            "Username": {
+              "type": "string"
+            },
+            "Password": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "PatientID",
+            "Name",
+            "Phone",
+            "Email",
+            "Username",
+            "Password"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "Patients"
+  ]
+}

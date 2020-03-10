@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Patients>
+
+<Patient>
+	<PID>1</PID>
+	<Name>Patient1</Name>
+	<Phone>913234544</Phone>
+	<Email>pat@hosp.com</Email>
+	<Username>pat1</Username>
+	<Password>pat1</Password>
+</Patient>
+
+<Patient>
+	<PID>2</PID>
+	<Name>Patient2</Name>
+	<Phone>913234545</Phone>
+	<Email>pat2@hosp.com</Email>
+	<Username>pat2</Username>
+	<Password>pat2</Password>
+</Patient>
+
+<Patient>
+	<PID>3</PID>
+	<Name>Patient3</Name>
+	<Phone>913234546</Phone>
+	<Email>pat3@hosp.com</Email>
+	<Username>pat3</Username>
+	<Password>pat3</Password>
+</Patient>
+
+<Patient>
+	<PID>4</PID>
+	<Name>Patient4</Name>
+	<Phone>913234547</Phone>
+	<Email>pat4@hosp.com</Email>
+	<Username>pat4</Username>
+	<Password>pat4</Password>
+</Patient>
+
+<Patient>
+	<PID>5</PID>
+	<Name>Patient5</Name>
+	<Phone>913234548</Phone>
+	<Email>pat5@hosp.com</Email>
+	<Username>pat5</Username>
+	<Password>pat5</Password>
+</Patient>
+
+</Patients>
