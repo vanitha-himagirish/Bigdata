@@ -1,5 +1,5 @@
 # Bigdata Tools and Technologies 
-Configuration of Hadoop multimode cluster using 3-nodes
-MapReduce programming in Hadoop ecosystem
-CRUD operations using MongoDB
-Data Serialization using JAVA API
+1.Configuration of Hadoop multimode cluster using 3-nodes
+2.MapReduce programming in Hadoop ecosystem
+3.CRUD operations using MongoDB
+4.Data Serialization using JAVA API
